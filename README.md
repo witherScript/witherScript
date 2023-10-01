@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Hit me up if you want to co-refactor some open source features. 
 Been eyeing -> Building a React tool to warn about memory leaks, extending EventEmitter to check for unfreed Event Listeners etc
 
- I love (and therefore disdain): C++, TypeScript, Python, HTMX, React, the Virtual DOM
+ I love: C++, TypeScript, Python, HTMX, React, the Virtual DOM
  I am trying to love: Vanilla JS
 
