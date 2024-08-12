@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- I'm stoked on making code smells a practical thing and not just some pipe dream of non-technical architects
+- I'm focused on building mobile applications in Flutter/Dart at the moment
 - Building an abstraction for the ARM Linux Kernel RE: scheduling policies
 - 💬 Hit me up if you want to co-refactor some open source features. 
 Been eyeing -> Building a React tool to warn about memory leaks, extending EventEmitter to check for unfreed Event Listeners etc
